@@ -18,6 +18,6 @@
 
 ```C
 ["hello", "2", "world", ":-)"] -> ["2", ":-)"]
-["1234", "1567", "-2", "computer sciennce"] -> "-2"
+["1234", "1567", "-2", "computer sciennce"] -> ["-2"]
 ["Russia", "Denmark", "Kazan"] -> []
 ```
